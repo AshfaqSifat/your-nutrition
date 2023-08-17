@@ -38,7 +38,7 @@ function a(event) {
         y = 0;
     }
     if (x == 1 && y == 1) {
-        window.location.href = "./index.html";
+        window.location.href = "./page2.html";
     }
 }
 
